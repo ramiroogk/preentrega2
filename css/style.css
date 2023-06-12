@@ -33,7 +33,6 @@ form {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-
 }
 
 button,
@@ -60,4 +59,36 @@ a {
 
 h2 {
   font-family: 'Poppins', sans-serif;
+}
+
+p {font-family: 'Poppins', sans-serif}
+
+#p1{
+  margin-top: 20px;
+  width: 600px;
+  margin: 52px 6px 15px  ;
+  padding: 20px;
+  box-sizing:flex;
+  display: inline-block;
+  border: 3px solid black;
+ }
+ #p2{
+  width: 640px;
+  margin: -324px 610px 3px;
+  padding: 20px;
+  box-sizing:flex;
+  display: flex;
+  border: 3px solid black;
+ }
+ .formulario form {
+  display: inline-block;
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 600px;
+  height: 450px;
+  background-color: #fff;
+  border: 2px solid #000;
+  padding: 20px;
+  margin: 20px 15px;
 }
