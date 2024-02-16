@@ -1,1 +1,18 @@
-{}
+{
+    "Gluu Ramiro": {
+        "projectName": "Gluu Ramiro",
+        "description": "Obtener licencia de Gluu",
+        "type": "community",
+        "author": "ramiroogk",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ramiroogk/preentrega2",
+        "githubUri": "https://github.com/ramiroogk/preentrega2",
+        "license": "apache-2.0",
+        "lastUpdated": "1708092614046",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
